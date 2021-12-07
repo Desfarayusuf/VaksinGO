@@ -3,6 +3,7 @@
         <a class="navbar-brand" href="index.php">
             <img src="/img/VaksinGO-logo.png">
         </a>
+        <!-- test -->
         <div class="nav-links ">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item"><a class="nav-link" href="index.php">HOME</a></li>
