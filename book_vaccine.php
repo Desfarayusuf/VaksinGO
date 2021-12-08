@@ -94,9 +94,6 @@ if (isset($_POST['login'])) {
                     <div class="form-group">
                         <label for="hospital">Choose Hospital</label><br>
                         <select id="hospital" name="hospital">
-                            <?php
-                                // echo '<option value="'.$id_rs.'">'.$nama_rs.'</option>';
-                            ?>
                             <option value="1">RS Nasional Diponegoro</option>
                             <option value="2">RSUP Dr. Kariadi</option>
                             <option value="3">RSU William Booth</option>
