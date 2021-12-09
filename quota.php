@@ -33,10 +33,7 @@
         </div>
         <br>
         <br>
-        <!-- <form class="example" action="" style="margin:auto;max-width:900px">
-        <input id="input-produk" type="text" placeholder="Cari...">
-        <button id="search-button" type="button">SEARCH</i></button>
-      </form> -->
+
             
 <!-- Rumah Sakit -->
 <main>
