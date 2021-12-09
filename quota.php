@@ -49,19 +49,6 @@
             }
         }
         ?>
-
-        <div class="my-5">
-            <div class="d-flex flex-row">
-                <div class="w-50 my-auto">
-                    <h4 class="display-5 orange">Check Hospital Vaccine Quota</h4>
-                </div>
-                <div class="input-group mb-3">
-                    <input type="text" class="form-control" placeholder="Search" aria-label="Hospital List" aria-describedby="basic-addon2">
-                    <div class="w-50">
-                        <input class="btn btn-primary" type="button" value="Search">
-                    </div>
-                </div>
-            </div>
     </section>
 
 
